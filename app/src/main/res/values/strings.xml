@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qvans insurance</string>
+    <string name="first_name">first_name</string>
+    <string name="second_name">second_name</string>
+    <string name="email">email</string>
+    <string name="phone_number">phone_number</string>
+    <string name="submit">submit</string>
+    <string name="user_name">user_name</string>
+    <string name="password">password</string>
+</resources>
